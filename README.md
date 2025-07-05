@@ -65,10 +65,4 @@ python new_gui1.py
 - **PSNR (Peak Signal-to-Noise Ratio)**: Indicates quality of the stego image.
 - **Entropy**: Reflects the randomness of pixel intensity for security analysis.
 
-## 📘 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Made with ❤️ by [Mohd Riyan](mailto:riyanmohammed826@gmail.com)
